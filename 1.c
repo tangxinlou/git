@@ -11,4 +11,5 @@ void main(void)
     b=c;
     printf("a=%d\n",a)
     printf("repo");
+    printf("git commit");
 }
